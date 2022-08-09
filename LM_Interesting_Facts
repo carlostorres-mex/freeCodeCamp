@@ -1,0 +1,113 @@
+<!DOCTYPE html>\
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+</head>
+<body>
+    <h1>Welcome to Linux Mint fan page!</h1>
+    <main id="main-doc">
+        <section class="main-section" id="Linux_Mint_Interesting_Facts">
+            <header>
+                Linux Mint Interesting Facts
+            </header>
+        </section>
+        <section class="main-section" id="It's_based_on_ubuntu">
+            <header>
+                It's based on <code>ubuntu</code>
+            </header>
+            <p>The base of Linux Mint is ubuntu, although the developers
+                strip down some features they don't like and try to make
+                it more user friendly.
+            </p>
+            <p>
+                For example, the snap store has been disabled by default.
+            </p>
+        </section>
+        <section class="main-section" id="It_has_been_the_most_popular_Linux_distro_for_quite_a_while">
+            <header>
+                It has been the most popular Linux distro for quite a while
+            </header>
+            <p>
+                Although it is based on ubuntu, and ubuntu is a derivative of debian,
+                Linux Mint is more popular among desktop users because of the ease of use
+                it provides to its users.
+            </p>
+            <p>
+                It's been on distro watch top 10 list for more than 15 years.
+            </p>
+            <p>
+                And it's been the top distro in many Linux awards.
+            </p>
+        </section>
+        <section class="main-section" id="There_is_a_Debian_derivative">
+            <header>
+                There is a Debian derivative
+            </header>
+            <p>In recent years, Canonical, the enterprise that maintains Ubuntu, has been 
+                surrounded by controversial decisions. 
+            </p>
+            <p>
+                Linux Mint developers have since distanced themselves from Canonical, and are aiming to
+                replace Ubuntu's base to that of Debian.
+            </p>
+            <p>
+                As of now, LMDE 5 has been released recently.
+            </p>
+        </section>
+        <section class="main-section" id="Linux_Mint_just_turned_15!">
+            <header>
+                Linux Mint just turned 15!
+            </header>
+            <p>Many distros have come and gone, but the rock solid foundations of Linux Mint
+                have stayed the same. Always free, always open source and works out of the box. 
+            </p>
+            <p>
+                There are many other Linux Mint interesting facts. For more, visit their wiki page.
+            </p>
+        </section>
+    </main>
+    <code></code>
+    <code></code>
+    <code></code>
+    <code></code>
+    <code></code>
+    <p>Suscribe to our newsletter!</p>
+    <input type="email" placeholder="Enter your email here to suscribe to our newsletter!">
+    <h2>Ubuntu, Debian and Linux Mint comparison.</h2>
+    <table>
+        <tr>
+            <th>Distribution</th>
+            <th>Feature</th>
+            <th>Yes/No</th>
+        </tr>
+        <tr>
+            <td>Ubuntu</td><td>Friendly Installer</td><td>Yes</td>
+        </tr>
+        <tr>
+            <td>Debian</td><td>Friendly Installer</td><td>No</td>
+        </tr>
+        <tr>
+            <td>Mint</td><td>Friendly Installer</td><td>Yes</td>
+        </tr>
+        <tr>
+            <td>Ubuntu</td><td>Propietary Drivers</td><td>Yes</td>
+        </tr>
+        <tr>
+            <td>Debian</td><td>Propietary Drivers</td><td>No</td>
+        </tr>
+        <tr>
+            <td>Mint</td><td>Propietary Drivers</td><td>Yes</td>
+        </tr>
+        <tr>
+            <td>Ubuntu</td><td>Gnome Desktop</td><td>Yes</td>
+        </tr>
+        <tr>
+            <td>Debian</td><td>No Desktop</td><td>Yes</td>
+        </tr>
+        <tr>
+            <td>Mint</td><td>Cinnammon Desktop</td><td>Yes</td>
+        </tr>
+    </table>
+    <section>
+        <h1>Download Linux Mint</h1>
+        <p>Linux Mint official <a href="https://linuxmint.com/">website</a></p>
+    </section>
